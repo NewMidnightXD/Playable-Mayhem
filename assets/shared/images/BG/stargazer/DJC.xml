@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DJ.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle 10000" x="380" y="289" width="347" height="248" frameX="-18" frameY="-21" frameWidth="374" frameHeight="269"/>
+	<SubTexture name="idle 10001" x="380" y="289" width="347" height="248" frameX="-18" frameY="-21" frameWidth="374" frameHeight="269"/>
+	<SubTexture name="idle 10002" x="10" y="289" width="360" height="259" frameX="-4" frameY="-10" frameWidth="374" frameHeight="269"/>
+	<SubTexture name="idle 10003" x="10" y="289" width="360" height="259" frameX="-4" frameY="-10" frameWidth="374" frameHeight="269"/>
+	<SubTexture name="idle 10004" x="10" y="10" width="374" height="269"/>
+	<SubTexture name="idle 10005" x="10" y="10" width="374" height="269"/>
+	<SubTexture name="idle 10006" x="394" y="10" width="338" height="251" frameX="-22" frameY="-18" frameWidth="374" frameHeight="269"/>
+	<SubTexture name="idle 10007" x="394" y="10" width="338" height="251" frameX="-22" frameY="-18" frameWidth="374" frameHeight="269"/>
+	<SubTexture name="idle 10008" x="394" y="10" width="338" height="251" frameX="-22" frameY="-18" frameWidth="374" frameHeight="269"/>
+	<SubTexture name="idle 10009" x="394" y="10" width="338" height="251" frameX="-22" frameY="-18" frameWidth="374" frameHeight="269"/>
+	<SubTexture name="idle 10010" x="394" y="10" width="338" height="251" frameX="-22" frameY="-18" frameWidth="374" frameHeight="269"/>
+	<SubTexture name="idle 10011" x="394" y="10" width="338" height="251" frameX="-22" frameY="-18" frameWidth="374" frameHeight="269"/>
+	<SubTexture name="idle 10012" x="394" y="10" width="338" height="251" frameX="-22" frameY="-18" frameWidth="374" frameHeight="269"/>
+	<SubTexture name="idle 10013" x="394" y="10" width="338" height="251" frameX="-22" frameY="-18" frameWidth="374" frameHeight="269"/>
+</TextureAtlas>

@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				20
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				228,
+				97
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "cutscene",
+			"indices": [],
+			"name": "cutscene"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sonic_cutscene",
+	"position": [
+		210,
+		210
+	],
+	"healthicon": "icon-sonicexe",
+	"flip_x": false,
+	"healthbar_colors": [
+		39,
+		10,
+		186
+	],
+	"camera_position": [
+		-270,
+		-30
+	],
+	"sing_duration": 8.1,
+	"scale": 1.9
+}

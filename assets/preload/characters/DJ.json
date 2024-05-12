@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				320,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left "
+		},
+		{
+			"offsets": [
+				60,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down "
+		},
+		{
+			"offsets": [
+				59,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up "
+		},
+		{
+			"offsets": [
+				61,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right "
+		},
+		{
+			"offsets": [
+				202,
+				-59
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "start",
+			"indices": [],
+			"name": "start"
+		},
+		{
+			"offsets": [
+				-91,
+				-80
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "fake",
+			"indices": [],
+			"name": "fakeidle"
+		},
+		{
+			"offsets": [
+				-40,
+				-320
+			],
+			"indices": [],
+			"fps": 18,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/DJ",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "icon-jeds",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		220,
+		80
+	],
+	"sing_duration": 8.1,
+	"scale": 1.4
+}

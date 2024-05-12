@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="realred.png">
+  <!--Optimized by itsTomRoyale615 -->
+  <SubTexture name="down 인스턴스 0000" x="496" y="344" width="232" height="209" frameX="-10" frameY="-23" frameWidth="242" frameHeight="232"/>
+  <SubTexture name="down 인스턴스 0001" x="496" y="344" width="232" height="209" frameX="-10" frameY="-23" frameWidth="242" frameHeight="232"/>
+  <SubTexture name="down 인스턴스 0002" x="805" y="319" width="220" height="227" frameX="0" frameY="0" frameWidth="242" frameHeight="232"/>
+  <SubTexture name="down 인스턴스 0003" x="805" y="319" width="220" height="227" frameX="0" frameY="0" frameWidth="242" frameHeight="232"/>
+  <SubTexture name="down 인스턴스 0004" x="276" y="344" width="220" height="227" frameX="-5" frameY="0" frameWidth="242" frameHeight="232"/>
+  <SubTexture name="down 인스턴스 0005" x="276" y="344" width="220" height="227" frameX="-5" frameY="0" frameWidth="242" frameHeight="232"/>
+  <SubTexture name="down 인스턴스 0006" x="276" y="344" width="220" height="227" frameX="-5" frameY="0" frameWidth="242" frameHeight="232"/>
+  <SubTexture name="down 인스턴스 0007" x="276" y="344" width="220" height="227" frameX="-5" frameY="0" frameWidth="242" frameHeight="232"/>
+  <SubTexture name="down 인스턴스 0008" x="276" y="344" width="220" height="227" frameX="-5" frameY="0" frameWidth="242" frameHeight="232"/>
+  <SubTexture name="down 인스턴스 0009" x="276" y="344" width="220" height="227" frameX="-5" frameY="0" frameWidth="242" frameHeight="232"/>
+  <SubTexture name="idle 인스턴스 0000" x="248" y="638" width="245" height="320" frameX="0" frameY="-2" frameWidth="261" frameHeight="323"/>
+  <SubTexture name="idle 인스턴스 0001" x="248" y="638" width="245" height="320" frameX="0" frameY="-2" frameWidth="261" frameHeight="323"/>
+  <SubTexture name="idle 인스턴스 0002" x="805" y="0" width="253" height="319" frameX="-9" frameY="-4" frameWidth="261" frameHeight="323"/>
+  <SubTexture name="idle 인스턴스 0003" x="805" y="0" width="253" height="319" frameX="-9" frameY="-4" frameWidth="261" frameHeight="323"/>
+  <SubTexture name="idle 인스턴스 0004" x="0" y="638" width="248" height="320" frameX="-3" frameY="0" frameWidth="261" frameHeight="323"/>
+  <SubTexture name="idle 인스턴스 0005" x="0" y="638" width="248" height="320" frameX="-3" frameY="0" frameWidth="261" frameHeight="323"/>
+  <SubTexture name="idle 인스턴스 0006" x="0" y="638" width="248" height="320" frameX="-3" frameY="0" frameWidth="261" frameHeight="323"/>
+  <SubTexture name="idle 인스턴스 0007" x="0" y="638" width="248" height="320" frameX="-3" frameY="0" frameWidth="261" frameHeight="323"/>
+  <SubTexture name="idle 인스턴스 0008" x="0" y="638" width="248" height="320" frameX="-3" frameY="0" frameWidth="261" frameHeight="323"/>
+  <SubTexture name="idle 인스턴스 0009" x="0" y="638" width="248" height="320" frameX="-3" frameY="0" frameWidth="261" frameHeight="323"/>
+  <SubTexture name="left 인스턴스 0000" x="522" y="0" width="283" height="294" frameX="0" frameY="-8" frameWidth="290" frameHeight="302"/>
+  <SubTexture name="left 인스턴스 0001" x="522" y="0" width="283" height="294" frameX="0" frameY="-8" frameWidth="290" frameHeight="302"/>
+  <SubTexture name="left 인스턴스 0002" x="0" y="344" width="276" height="294" frameX="-14" frameY="0" frameWidth="290" frameHeight="302"/>
+  <SubTexture name="left 인스턴스 0003" x="0" y="344" width="276" height="294" frameX="-14" frameY="0" frameWidth="290" frameHeight="302"/>
+  <SubTexture name="left 인스턴스 0004" x="0" y="344" width="276" height="294" frameX="-14" frameY="0" frameWidth="290" frameHeight="302"/>
+  <SubTexture name="left 인스턴스 0005" x="0" y="344" width="276" height="294" frameX="-14" frameY="0" frameWidth="290" frameHeight="302"/>
+  <SubTexture name="left 인스턴스 0006" x="0" y="344" width="276" height="294" frameX="-14" frameY="0" frameWidth="290" frameHeight="302"/>
+  <SubTexture name="left 인스턴스 0007" x="0" y="344" width="276" height="294" frameX="-14" frameY="0" frameWidth="290" frameHeight="302"/>
+  <SubTexture name="left 인스턴스 0008" x="0" y="344" width="276" height="294" frameX="-14" frameY="0" frameWidth="290" frameHeight="302"/>
+  <SubTexture name="left 인스턴스 0009" x="0" y="344" width="276" height="294" frameX="-14" frameY="0" frameWidth="290" frameHeight="302"/>
+  <SubTexture name="right 인스턴스 0000" x="1058" y="0" width="220" height="321" frameX="-3" frameY="0" frameWidth="223" frameHeight="325"/>
+  <SubTexture name="right 인스턴스 0001" x="1058" y="0" width="220" height="321" frameX="-3" frameY="0" frameWidth="223" frameHeight="325"/>
+  <SubTexture name="right 인스턴스 0002" x="1058" y="321" width="214" height="311" frameX="-3" frameY="-15" frameWidth="223" frameHeight="325"/>
+  <SubTexture name="right 인스턴스 0003" x="1058" y="321" width="214" height="311" frameX="-3" frameY="-15" frameWidth="223" frameHeight="325"/>
+  <SubTexture name="right 인스턴스 0004" x="1058" y="632" width="214" height="311" frameX="0" frameY="-10" frameWidth="223" frameHeight="325"/>
+  <SubTexture name="right 인스턴스 0005" x="1058" y="632" width="214" height="311" frameX="0" frameY="-10" frameWidth="223" frameHeight="325"/>
+  <SubTexture name="right 인스턴스 0006" x="1058" y="632" width="214" height="311" frameX="0" frameY="-10" frameWidth="223" frameHeight="325"/>
+  <SubTexture name="right 인스턴스 0007" x="1058" y="632" width="214" height="311" frameX="0" frameY="-10" frameWidth="223" frameHeight="325"/>
+  <SubTexture name="right 인스턴스 0008" x="1058" y="632" width="214" height="311" frameX="0" frameY="-10" frameWidth="223" frameHeight="325"/>
+  <SubTexture name="right 인스턴스 0009" x="1058" y="632" width="214" height="311" frameX="0" frameY="-10" frameWidth="223" frameHeight="325"/>
+  <SubTexture name="up 인스턴스 0000" x="0" y="0" width="257" height="344" frameX="-4" frameY="0" frameWidth="265" frameHeight="348"/>
+  <SubTexture name="up 인스턴스 0001" x="0" y="0" width="257" height="344" frameX="-4" frameY="0" frameWidth="265" frameHeight="348"/>
+  <SubTexture name="up 인스턴스 0002" x="257" y="0" width="265" height="323" frameX="0" frameY="-26" frameWidth="265" frameHeight="348"/>
+  <SubTexture name="up 인스턴스 0003" x="257" y="0" width="265" height="323" frameX="0" frameY="-26" frameWidth="265" frameHeight="348"/>
+  <SubTexture name="up 인스턴스 0004" x="257" y="0" width="265" height="323" frameX="0" frameY="-26" frameWidth="265" frameHeight="348"/>
+  <SubTexture name="up 인스턴스 0005" x="257" y="0" width="265" height="323" frameX="0" frameY="-26" frameWidth="265" frameHeight="348"/>
+  <SubTexture name="up 인스턴스 0006" x="257" y="0" width="265" height="323" frameX="0" frameY="-26" frameWidth="265" frameHeight="348"/>
+  <SubTexture name="up 인스턴스 0007" x="257" y="0" width="265" height="323" frameX="0" frameY="-26" frameWidth="265" frameHeight="348"/>
+  <SubTexture name="up 인스턴스 0008" x="257" y="0" width="265" height="323" frameX="0" frameY="-26" frameWidth="265" frameHeight="348"/>
+  <SubTexture name="up 인스턴스 0009" x="257" y="0" width="265" height="323" frameX="0" frameY="-26" frameWidth="265" frameHeight="348"/>
+</TextureAtlas>

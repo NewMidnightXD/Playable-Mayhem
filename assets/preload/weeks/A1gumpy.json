@@ -1,0 +1,32 @@
+{
+	"storyName": "ria",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "ria",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Stabbed-Back-old",
+			"grey",
+			[
+				135,
+				73,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "ria",
+	"hiddenUntilUnlocked": false
+}

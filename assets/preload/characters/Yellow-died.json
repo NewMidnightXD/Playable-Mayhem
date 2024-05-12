@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-62,
+				165
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "restart"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-62,
+				169
+			],
+			"anim": "deathLoop",
+			"fps": 12,
+			"name": "loopdie",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				117,
+				231
+			],
+			"anim": "firstDeath",
+			"fps": 22,
+			"name": "Fdie",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Yellow-die",
+	"position": [
+		150,
+		380
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		-220
+	],
+	"sing_duration": 4,
+	"scale": 2.1
+}
